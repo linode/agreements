@@ -1,7 +1,7 @@
 # Privacy Policy
 
-**Current Version:** 1.1  
-**Last Updated:** August 22, 2018
+**Current Version:** 1.1.1 
+**Last Updated:** October 29, 2018
 
 Linode LLC ("Linode," "we," "us," or "our") respects your privacy and is committed to protecting the Personal Data it collects. The purpose of this Privacy Policy is to inform you of how we protect your privacy when accessing or using Linode Resources.
 
@@ -71,14 +71,10 @@ Linode uses website use information to measure interest in and develop its web p
 #### For Support Information
 Linode uses information that you provide to it via telephone calls, chat, e-mail, web forms and other communications to correspond with you about services you may be interested in purchasing. If you elect to purchase a service online using a web form, Linode will use the information to establish your account. Information you submit in writing, such as chat, e-mail, and web form information is archived and may be tied to information that Linode collects about your web visits. Your telephone call may be recorded for training purposes and Linode may enter information you provide via telephone into its systems to use for the purposes described in this paragraph.
     
-### 5.  What does Linode Disclose to Regulatory Agencies? 
-Linode transfers Personal Data to third parties, including without limitation, law enforcement agencies and consumer reporting agencies, under the following normal business procedures and subject to service of lawful process:
-
-* Linode uses a Visitor's IP address to help diagnose problems with its servers, and to administer its website.
-* Linode uses cookies to help it recognize Visitors as unique Visitors when they return to Linode's website. Linode also uses cookies to tailor content or advertisements to match your preferred interest; avoid showing Visitors the same advertisements repeatedly; compile anonymous, aggregated statistics that allow Linode to understand how users use its site and to help it improve the structure of its website (Linode cannot identify Visitors personally in this way); and count the number of anonymous users of its websites.
-* Linode uses web beacons to count the number of times that its advertisements and web-based e-mail content are viewed. Linode combines web beacon information with cookies to track activity on its website originating from advertisements and web-based e-mail content.
+### 5.  What does Linode Disclose to Regulatory Agencies and other Third Parties?
+Linode transfers Personal Data to third parties, including without limitation, law enforcement agencies and consumer reporting agencies, in the normal course of business, subject to service of lawful process or your written consent.
     
-If you breach the Customer Agreement or other applicable Service Level Agreement, or if Linode is under a duty to disclose or share your personal data in order to comply with any legal obligation, Linode may disclose your information to a relevant authority. Disclosure may include, but is not limited to, exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. In particular, Linode may release the information it collects to third parties when Linode believes that it is appropriate to comply with the law, to enforce its' legal rights, to protect the rights and safety of others, or to assist with industry efforts to control fraud, spam or other undesirable conduct.
+If you breach the Customer Agreement or other applicable Service Level Agreement, or if Linode is under a duty to disclose your Personal Data in order to comply with any legal obligation, Linode may disclose your information to the relevant authority. Disclosure may include, but is not limited to, exchanging information with other companies and organizations for the purposes of regulatory auditing, fraud protection and credit risk reduction. In particular, Linode may release the information it collects to third parties when Linode believes that it is appropriate to comply with the law, to enforce legal rights, to protect the rights and safety of others, or to assist with industry efforts to control fraud, spam or other undesirable conduct. In the event of a Customer request for the disclosure of Personal Data by Linode, Customer will be responsible for the cost of disclosure efforts outside of Linode's normal course of business.
     
 Linode may release the information it collects to third parties, where the information is provided to enable such third party to provide services to Linode, provided that the third party has agreed to use at least the same level of privacy protections described in this Privacy Policy, and is permitted to use the information only for the purpose of providing services to Linode.
     
