@@ -1,13 +1,13 @@
 # Privacy Policy
 
-**Current Version:** 1.1.1 
-**Last Updated:** October 29, 2018
+**Current Version:** 1.2 
+**Last Updated:** May 13, 2019
 
-Linode LLC ("Linode," "we," "us," or "our") respects your privacy and is committed to protecting the Personal Data it collects. The purpose of this Privacy Policy is to inform you of how we protect your privacy when accessing or using Linode Resources.
+Linode respects your privacy and is committed to protecting the Personal Data it collects. The purpose of this Privacy Policy is to inform you of how we protect your privacy when accessing or using Linode Resources.
 
 ## General Terms and Privacy Shield Notice
 ### Scope
-This Privacy Policy applies to Linode Resources that link to, or reference, this Privacy Policy, and describes the ways Linode collects and uses your personal information and the choices you have regarding collection, use, maintenance, access and transmission of your personal information. Capitalized terms not expressly defined in this Privacy Policy shall have the meaning found in the Customer Agreement. By utilizing a Linode Resource, including without limitation the Linode Services, Linode's website or otherwise providing your Personal Data to Linode via any other means, you or the entity you represent ("you" or "your") accept and consent to the rights, obligations and practices described in this Privacy Policy.
+This Privacy Policy applies to Linode Resources that link to, or reference, this Privacy Policy, and describes the ways Linode collects and uses your personal information and the choices you have regarding collection, use, maintenance, access and transmission of your personal information. Capitalized terms not expressly defined in this Privacy Policy shall have the meaning found in the Customer Agreement. By utilizing a Linode Resource, including without limitation the Linode Services, Linode's website or otherwise providing your Personal Data to Linode via any other means, you or the entity you represent accept and consent to the rights, obligations and practices described in this Privacy Policy.
 
 ### Privacy Shield and Cross-Border Transfers of Personal Data
 Linode is an international organization headquartered in the United States of America (the “US”). By utilizing a Linode Resource, you expressly consent to Linode’s access, maintenance, transmission and/or use of your Personal Data outside of your country of residence, regardless of location or jurisdiction.
@@ -105,8 +105,8 @@ If you believe your Personal Data has been used in a way that is not consistent 
     
     Custodian of Records  
     Linode LLC  
-    329 East Jimmie Leeds Road  
-    Galloway, New Jersey 08205
+    249 Arch Street 
+    Philadelphia, Pennsylvania 19106
     
 ### 13.  Definitions
 * "Custodian of Records" means the Linode employee described in Section 14 of this Privacy Policy.
