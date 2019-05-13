@@ -1,7 +1,10 @@
+**Current Version:** 1.2
+**Last Updated:** May 13, 2019
+
 # Customer Agreement
 The following Customer Agreement will apply to the use of any Linode service beginning on May 25, 2018, though you are invited to review and accept its terms at any time before such date.
 
-In order to ensure the provision of high quality data services, Linode, LLC ("Linode," "we," "us," or "our") require all users of Linode Services to accept the contractually binding responsibilities and obligations contained in this Customer Agreement (the "Agreement"). Definitions of certain capitalized terms in this Agreement shall be defined in Section 14. By clicking on the "I Accept" button at the end of this Agreement, you or the entity you represent ("you" or "your") acknowledge and agree that:
+In order to ensure the provision of high quality data services, Linode ("we," "us," or "our") require all users of Linode Services to accept the contractually binding responsibilities and obligations contained in this Customer Agreement (the "Agreement"). Definitions of certain capitalized terms in this Agreement shall be defined in Section 15. By clicking on the "I Accept" button at the end of this Agreement, you or the entity you represent ("you" or "your") acknowledge and agree that:
 
 1.  You are lawfully able to enter into contracts in both the United States of America and the country you are presently residing in;
 2.  You consent to the application of the laws of the State of New Jersey, United States of America;
@@ -136,15 +139,16 @@ This Agreement shall not be amended or modified, nor shall it be deemed, interpr
 * 15.12. "European Economic Area" refers to the following countries: Belgium, Bulgaria, Croatia, Republic of Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Lichtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and the United Kingdom.  
 * 15.13. "EU GDPR" means the General Data Protection Regulation (Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data);  
 * 15.14. "EU Model Contract" means the Data Processor Agreement and the Standard Contractual Clause C(2010)593 issued by the European Union European Commission, Directorate of General Justice as provided by us to our Customers in the European Economic Area.  
-* 15.15. "Linode Customer Support" means the online ticketing system found [here](https://manager.linode.com/support).  
-* 15.16. "Linode Resource" or "Linode Resources" means any website, product, software, hardware, application, machine, equipment or property used by us to provide or make available the Linode Services.  
-* 15.17. "Linode Service" or "Linode Services" means any and all services made available by us, our Affiliates or our Subprocessors, including those services published on any Linode Resource.  
-* 15.18. "Personal Data" means any information relating to a Data Subject that you or your End Users directly or indirectly provide to us as part of the Linode Services or any Data Subject's use of any Linode Resource.  
-* 15.19. "Privacy Policy" means the Service Level Agreement published [here](https://www.linode.com/privacy).  
-* 15.20. "Proprietary Rights" means any right, interest or authorized or permitted ability to use, distribute, redistribute, produce, reproduce or display any tangible or intangible property protected by patent, copyright, trade secret, trademark, or other intellectual property right.  
-* 15.21. "Service Level Agreement(s)" means any agreement or policy subject to this Agreement, including without limitation, the Acceptable Use Policy, Privacy Policy and EU Model Contract, all of which as amended at Linode's sole and absolute discretion from time to time with or without notice.  
-* 15.22. "Subprocessors" means any subsidiaries, contractors, representatives, agents, vendors or distributors engaged to process Customer Data as part of the Linode Services.  
-* 15.23. "Third Party Content" means all content, including without limitation, all data, text, audio, software (including machine images or processes), or visual (both static and dynamic) files that are used by you and/or your End Users that were not directly provided to you by us.  
+* 15.15. "Linode" means (i) Linode, LLC for all Customers with a billing address located in the United States of America or (ii) Linode International Services Company for all Customers with a billing address not located in the United States of America.
+* 15.16. "Linode Customer Support" means the online ticketing system found [here](https://manager.linode.com/support).  
+* 15.17. "Linode Resource" or "Linode Resources" means any website, product, software, hardware, application, machine, equipment or property used by us to provide or make available the Linode Services.  
+* 15.18. "Linode Service" or "Linode Services" means any and all services made available by us, our Affiliates or our Subprocessors, including those services published on any Linode Resource.  
+* 15.19. "Personal Data" means any information relating to a Data Subject that you or your End Users directly or indirectly provide to us as part of the Linode Services or any Data Subject's use of any Linode Resource.  
+* 15.20. "Privacy Policy" means the Service Level Agreement published [here](https://www.linode.com/privacy).  
+* 15.21. "Proprietary Rights" means any right, interest or authorized or permitted ability to use, distribute, redistribute, produce, reproduce or display any tangible or intangible property protected by patent, copyright, trade secret, trademark, or other intellectual property right.  
+* 15.22. "Service Level Agreement(s)" means any agreement or policy subject to this Agreement, including without limitation, the Acceptable Use Policy, Privacy Policy and EU Model Contract, all of which as amended at Linode's sole and absolute discretion from time to time with or without notice.  
+* 15.23. "Subprocessors" means any subsidiaries, contractors, representatives, agents, vendors or distributors engaged to process Customer Data as part of the Linode Services.  
+* 15.24. "Third Party Content" means all content, including without limitation, all data, text, audio, software (including machine images or processes), or visual (both static and dynamic) files that are used by you and/or your End Users that were not directly provided to you by us.  
 
 #### 16. Additional Terms.
 * 16.1. English Language. If we provide a translation of the English language version of this Agreement, the English language version of the Agreement will control if there is any conflict.  
