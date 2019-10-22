@@ -1,6 +1,10 @@
 # Changelog
 In addition to updates which reflect our implementation of innovative technologies and compliance with evolving regulations, Linode regularly utilizes community feedback for optimizing the legal, stylistic and organizational presentation of our legal agreements. Moving forward, Linode will also be utilizing changelogs to enhance transparency and to assist customer understanding of Linode’s commitment to privacy. We encourage all customers to review the entirety of Linode’s current legal agreements, as well as the below summaries highlighting key version-to-version changes. 
 
+
+* **1.2.1** [15 October 2019]
+	* **[Privacy Policy]** Update to General Terms and Privacy Shield Notice: the language defining "Linode" has been re-introduced and expanded to include "Linode International Services Company"
+
 * **v1.2** [13 May 2019]
   * **[Privacy Policy]** Redundant Language Removal: The language in the introduction defining "Linode" has been removed because the term is already defined by the Customer Agreement.
   * **[Privacy Policy]** Redundant Language Removal: The language in the scope defining "you" and "your" has been removed because the terms are already defined by the Customer Agreement.
