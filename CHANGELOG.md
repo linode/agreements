@@ -3,7 +3,7 @@ In addition to updates which reflect our implementation of innovative technologi
 
 
 * **1.2.1** [15 October 2019]
-	* **[Privacy Policy]** Update to General Terms and Privacy Shield Notice: the language defining "Linode" has been re-introduced and expanded to include "Linode International Services Company"
+	* **[Privacy Policy]** Update to General Terms and Privacy Shield Notice: the language defining "Linode" has been re-introduced and expanded to include "Linode International Services Company".
 
 * **v1.2** [13 May 2019]
   * **[Privacy Policy]** Redundant Language Removal: The language in the introduction defining "Linode" has been removed because the term is already defined by the Customer Agreement.
