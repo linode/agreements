@@ -1,6 +1,6 @@
 # Cookie Policy
 
-**Current Version:** 1.3 
+**Current Version:** 1.1 
 **Last Updated:** 5 February 2020
 **Effective Date:** 01 January 2020
 
