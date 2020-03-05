@@ -2,6 +2,37 @@
 In addition to updates which reflect our implementation of innovative technologies and compliance with evolving regulations, Linode regularly utilizes community feedback for optimizing the legal, stylistic and organizational presentation of our legal agreements. Moving forward, Linode will also be utilizing changelogs to enhance transparency and to assist customer understanding of Linode’s commitment to privacy. We encourage all customers to review the entirety of Linode’s current legal agreements, as well as the below summaries highlighting key version-to-version changes. 
 
 
+
+
+* **[5 February 2020]**
+	* **[Cookie Policy v1.1]** 
+	  *  Separated from the Privacy Policy to better explain the types of Cookies Linode may place during a web visit.
+      *  Included separate opt-out links for each cookie supplied by Linode.
+      *  Included links for browser support assistance for Chrome, Firefox, Internet Explorer, Safari, and Opera.
+
+* **[15 December 2019]**
+	* **[Privacy Policy 1.3]** 
+	  *  Moved the 'User Choice' section to the top.
+      *  Description of Cookies under Section 3 (Methods of Data Collection) is now located under the [Cookie Policy](https://www.linode.com/legal-cookies/).
+      *  Updated Section 4 (Purposes of Collected Data) to include more specific language on data collection of Visitors (Section 4.2).
+	* **Acceptable Use Policy 1.1**
+       * Now included in Section 2 (Abuse):
+         1. Creation or distribution of unsolicited bulk email and mailing lists.
+         2. Unauthorized collection or use of any financial or health data.
+       * Enforcement of the AUP has been condensed to Section 10 (Enforcement and Effect of Violation).
+       * Changes to the policy will be effective within fourteen (14) days of being posted by Linode or by continued use of the Services, whichever later.
+	* **Data Processing Addendum 1.0**
+       * Separated from Customer Agreement v1.2. 
+       * This DPA includes language for the California Covered PII under the California Consumer Privacy Act.
+	* **Master Services Agreement 1.3** [15 December 2019]
+	    * Contact information, log-in credentials, payment, and billing sources is now defined as Registration Information (Section 2.2).
+	     Resale is expressly prohibited unless the appropriate SUP or SPA is issued and signed.
+	    * Section 2.5 has been included to outline Linode's open source software programs.
+	    * Dispute Resolution has been moved from Privacy Policy 1.2.1 to the MSA and includes the Arbitration Procedures.
+	    * Class Action waiver (Section 12.3) added.
+        * Jury Trial waiver (Section 12.4) added.
+	    * Section 13 (Confidential Information) has been included, which defines Confidential Information and the responsibility of the recipient of the Confidential Information.   
+
 * **1.2.1** [15 October 2019]
 	* **[Privacy Policy]** Update to General Terms and Privacy Shield Notice: the language defining "Linode" has been re-introduced and expanded to include "Linode International Services Company".
 

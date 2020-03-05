@@ -1,7 +1,8 @@
 # Privacy Policy
 
-**Current Version:** 1.2.1 
-**Last Updated:** October 15, 2019
+**Current Version:** 1.3 
+**Last Updated:** 15 December 2019
+**Effective Date:** 01 January 2020
 
 Linode respects your privacy and is committed to protecting the Personal Data it collects. The purpose of this Privacy Policy is to inform you of how we protect your privacy when accessing or using Linode Resources.
 
