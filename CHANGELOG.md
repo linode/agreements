@@ -5,13 +5,13 @@ In addition to updates which reflect our implementation of innovative technologi
 
 
 * **[5 February 2020]**
-	* **[Cookie Policy v1.1]** 
+	* **Cookie Policy v1.1** 
 	  *  Separated from the Privacy Policy to better explain the types of Cookies Linode may place during a web visit.
       *  Included separate opt-out links for each cookie supplied by Linode.
       *  Included links for browser support assistance for Chrome, Firefox, Internet Explorer, Safari, and Opera.
 
 * **[15 December 2019]**
-	* **[Privacy Policy 1.3]** 
+	* **Privacy Policy 1.3** 
 	  *  Moved the 'User Choice' section to the top.
       *  Description of Cookies under Section 3 (Methods of Data Collection) is now located under the [Cookie Policy](https://www.linode.com/legal-cookies/).
       *  Updated Section 4 (Purposes of Collected Data) to include more specific language on data collection of Visitors (Section 4.2).
