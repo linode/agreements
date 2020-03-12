@@ -1,6 +1,6 @@
 # Data Processing Addendum
 
-**Current Version:** 1.3 
+**Current Version:** 1.0 
 **Last Updated:** 15 December 2019
 **Effective Date:** 01 January 2020
 

@@ -7,18 +7,15 @@ In addition to updates which reflect our implementation of innovative technologi
       *  Description of Cookies under Section 3 (Methods of Data Collection) is now located under the [Cookie Policy](https://www.linode.com/legal-cookies/).
       *  Updated Section 4 (Purposes of Collected Data) to include more specific language on data collection of Visitors (Section 4.2).
 	* **[Acceptable Use Policy]**
-       * Updated from v1.2 to v1.3.
 	   * Now included in Section 2 (Abuse):
          1. Creation or distribution of unsolicited bulk email and mailing lists.
          2. Unauthorized collection or use of any financial or health data.
        * Enforcement of the AUP has been condensed to Section 10 (Enforcement and Effect of Violation).
        * Changes to the policy will be effective within fourteen (14) days of being posted by Linode or by continued use of the Services, whichever later.
 	* **[Data Processing Addendum]**
-       * Updated from v1.2 to v1.3. 
 	   * Separated from Customer Agreement v1.2. 
        * This DPA includes language for the California Covered PII under the California Consumer Privacy Act.
 	* **[Cookie Policy]** 
-	  * Updated from v1.2 to v1.3.
 	  *  Separated from the Privacy Policy to better explain the types of Cookies Linode may place during a web visit.
       *  Included separate opt-out links for each cookie supplied by Linode.
       *  Included links for browser support assistance for Chrome, Firefox, Internet Explorer, Safari, and Opera.   
