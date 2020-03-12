@@ -1,7 +1,7 @@
 # Changelog
 In addition to updates which reflect our implementation of innovative technologies and compliance with evolving regulations, Linode regularly utilizes community feedback for optimizing the legal, stylistic and organizational presentation of our legal agreements. Moving forward, Linode will also be utilizing changelogs to enhance transparency and to assist customer understanding of Linode’s commitment to privacy. We encourage all customers to review the entirety of Linode’s current legal agreements, as well as the below summaries highlighting key version-to-version changes. 
 
-* **1.3** [February 2020]
+* **v1.3** [February 2020]
 	* **[Privacy Policy]** 
 	  *  Moved the 'User Choice' section to the top.
       *  Description of Cookies under Section 3 (Methods of Data Collection) is now located under the [Cookie Policy](https://www.linode.com/legal-cookies/).
@@ -31,7 +31,7 @@ In addition to updates which reflect our implementation of innovative technologi
         * Jury Trial waiver (Section 12.4) added.
 	    * Section 13 (Confidential Information) has been included, which defines Confidential Information and the responsibility of the recipient of the Confidential Information.   
 
-* **1.2.1** [15 October 2019]
+* **v1.2.1** [15 October 2019]
 	* **[Privacy Policy]** Update to General Terms and Privacy Shield Notice: the language defining "Linode" has been re-introduced and expanded to include "Linode International Services Company".
 
 * **v1.2** [13 May 2019]
